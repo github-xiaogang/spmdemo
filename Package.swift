@@ -32,6 +32,6 @@ let package = Package(
         
         .binaryTarget(
             name: "WoodPeckeriOS",
-            path: "/Users/zhangxiaogang/Desktop/archives/WoodPeckeriOS.xcframework"),
+            path: "WoodPeckeriOS.xcframework"),
     ]
 )
